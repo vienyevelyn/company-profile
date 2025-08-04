@@ -6,12 +6,14 @@ import About from './pages/About';
 import Services from './pages/Services';
 import News from './pages/News';
 import Contact from './pages/Contact';
+import Navbar from './component/Navbar';
 
 function App() {
   
 
   return (
     <>
+      <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/about" element={<About/>}/>

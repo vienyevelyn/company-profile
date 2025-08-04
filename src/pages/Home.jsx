@@ -7,7 +7,9 @@ function Home(){
 
     return (
         <>
-        <h1>TES</h1>
+        <div className="bg-blue-50 w-full h-full">
+            
+        </div>
         </>
     )
 
