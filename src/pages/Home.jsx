@@ -17,7 +17,7 @@ function Home(){
                     <h1 className="text-7xl font-bold text-white">Finest Tech</h1>
                 </div>
                 <div className="lg:text-end text-start lg:mt-0 mt-5">
-                    <p className="mb-4 text-white font-semibold ">Responsive! dolor amet consectetur adipisicing elit. Quidem voluptates esse eum reiciendis nisi necessitatibus debitis, nobis a consectetur voluptatem.</p>
+                    <p className="mb-4 text-white font-semibold ">No Responsive dolor amet consectetur adipisicing elit. Quidem voluptates esse eum reiciendis nisi necessitatibus debitis, nobis a consectetur voluptatem.</p>
                     <button><Link to={"/about"} className="bg-blue-800 py-2 px-3 rounded-full text-white hover:text-white hover:bg-indigo-900 transition-all duration-500">About Us</Link></button>
                 </div>
             </div>
