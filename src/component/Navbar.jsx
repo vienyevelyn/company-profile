@@ -13,7 +13,7 @@ function Navbar(){
                 <li><Link to={"/about"}>About</Link></li>
                 <li><Link to={"/services"}>Services</Link></li>
                 <li><Link to={"/news"}>News</Link></li>
-                <li><Link to={"/Contact"} className="bg-blue-800 py-2 px-3 rounded-full text-white">Contact</Link></li>
+                <li><Link to={"/Contact"} className="bg-blue-800 py-2 px-3 rounded-full text-white hover:text-white hover:bg-indigo-900 transition-all duration-500">Contact</Link></li>
             </ul>
         </div>
         </>

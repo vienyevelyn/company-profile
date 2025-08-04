@@ -32,8 +32,8 @@ function News(){
 
         <>
         <div className="mt-48 mb-40 mx-auto w-[1520px]">
-            <div className="bg-green-700 w-[1000px] h-[200px] mx-auto py-10 rounded-xl mb-20">
-                <h4 className="text-xl text-white font-semibold mb-2">(template API)</h4>
+            <div className="bg-green-700 w-[1000px] h-[200px] mx-auto py-10 rounded-xl mb-20 hover:bg-green-900 transition-all duration-500">
+                <h4 className="text-xl text-white font-semibold mb-2">(template API + hover)</h4>
                 <h1 className="text-5xl text-white font-bold">Article and News</h1>
             </div>
             {error && <p className="text-center text-red-400 text-lg mb-6">{error}</p>}

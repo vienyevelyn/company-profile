@@ -11,7 +11,7 @@ function Contact(){
             <div>
                 <div className="text-start">
                     <h1 className="font-bold text-blue-800 text-5xl">Contact Us</h1>
-                    <p className="text-gray-600 font-semibold text-xl max-w-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, libero?</p>
+                    <p className="text-gray-600 font-semibold text-xl max-w-lg">No Animation sit amet consectetur adipisicing elit. Autem, libero?</p>
                 </div>
             </div>
             <div className="mt-20 grid grid-cols-2 gap-y-10 gap-x-20">
