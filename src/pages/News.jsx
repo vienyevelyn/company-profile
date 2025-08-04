@@ -7,7 +7,15 @@ function News(){
 
     return (
         <>
-        <h1>news</h1>
+        <div>
+            <div>
+                <h4>OneTech</h4>
+                <h1>Article and News</h1>
+            </div>
+            <div className="news-api">
+                
+            </div>
+        </div>
         </>
     )
 
