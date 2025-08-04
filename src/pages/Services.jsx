@@ -10,7 +10,7 @@ function Services(){
     return (
         <>
         <div className="">
-            <div className="text-black mb-6 flex justify-around px-20 items-end gap-x-32 mt-48 mb-32 mx-auto w-[1520px]"> 
+            <div className="text-black mb-6 flex justify-around px-20 items-end gap-x-32 mt-48 mb-40 mx-auto w-[1520px]"> 
                 <h1 className="text-6xl text-start font-semibold">Our<br/> Services!</h1>
                 
                 <p className="text-md text-justify max-w-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum voluptatibus, modi inventore aliquid non ratione? Corporis suscipit consectetur vel aperiam.</p>
